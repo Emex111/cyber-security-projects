@@ -1,0 +1,5 @@
+Server Error at 10:00.
+No error here.
+Another ERROR in system.
+Warning: low disk space.
+WARNING: high CPU usage.
